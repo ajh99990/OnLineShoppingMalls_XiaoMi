@@ -13,16 +13,16 @@
 关于整体架构请参考  OnLineShoppingMalls_XiaoMi/架构与进度 (暂未完成，请先阅读下面的文字版)  
 
 src-assets: 存放资源  
-src-assets-config: 存放配置数据，主要是用来模拟数据库  
-src-assets-imgge: 存储图像资源  
-components-ListPanel: 存放自定义控件  
-components-ListPanel-CounterPanel: 计数器插件
-components-ListPanel-NormalPanelTwoCol: 双列列表
-components-ListPanel-ShoppingCarInsideList: 购物车内的物品列表
-components-Pages: 存放全部页面，根据路由的层级进行了分类  
-components-tool：工具类
-components-tool-broadcast：广播组件，暂时废弃了。
-components-tool-VueX：vuex配置文件。
+src-assets-config: 存放配置数据，主要是用来模拟数据库   
+src-assets-imgge: 存储图像资源    
+components-ListPanel: 存放自定义控件    
+components-ListPanel-CounterPanel: 计数器插件  
+components-ListPanel-NormalPanelTwoCol: 双列列表  
+components-ListPanel-ShoppingCarInsideList: 购物车内的物品列表  
+components-Pages: 存放全部页面，根据路由的层级进行了分类    
+components-tool：工具类  
+components-tool-broadcast：广播组件，暂时废弃了。  
+components-tool-VueX：vuex配置文件。  
 
 ---------------
 ### 进度
